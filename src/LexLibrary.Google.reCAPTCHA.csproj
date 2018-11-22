@@ -6,6 +6,11 @@
     <PackageProjectUrl>https://github.com/shuangrain/LexLibrary.Google.reCAPTCHA</PackageProjectUrl>
     <RepositoryUrl>https://github.com/shuangrain/LexLibrary.Google.reCAPTCHA</RepositoryUrl>
     <Copyright>https://blog.exfast.me</Copyright>
+    <Description>使用 HtmlHelper + ValidateAttribute 快速將 Google reCAPTCHA 驗證加入你的網站
+
+NuGet：https://www.nuget.org/packages/LexLibrary.Google.reCAPTCHA/
+Blog：https://blog.exfast.me</Description>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
