@@ -11,6 +11,11 @@ Blog：[https://blog.exfast.me]()
 - [x] Google reCAPTCHA v3
 
 # Example
+新增設定檔到 `Startup.cs`
+````
+services.AddGoogleCaptcha(new GoogleCaptchaSetting { })
+````
+
 View
 ````
 @Html.GooglereCaptchaV2()
