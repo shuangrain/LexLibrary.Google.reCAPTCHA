@@ -1,9 +1,9 @@
 # LexLibrary.Google.reCAPTCHA
 使用 HtmlHelper + ValidateAttribute 快速將 Google reCAPTCHA 驗證加入你的網站
 
-NuGet：[https://www.nuget.org/packages/LexLibrary.Google.reCAPTCHA/]()
+NuGet：[https://www.nuget.org/packages/LexLibrary.Google.reCAPTCHA/](https://www.nuget.org/packages/LexLibrary.Google.reCAPTCHA/)
 
-Blog：[https://blog.exfast.me]()
+Blog：[https://blog.exfast.me](https://blog.exfast.me)
 
 # Support
 - [ ] Google reCAPTCHA v1
