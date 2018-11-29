@@ -1,9 +1,11 @@
 # LexLibrary.Google.reCAPTCHA
 使用 HtmlHelper + ValidateAttribute 快速將 Google reCAPTCHA 驗證加入你的網站
 
+Blog：[https://blog.exfast.me/2018/11/c-sharp-asp-net-core-quickly-add-google-recaptcha-verification-to-your-website/](https://blog.exfast.me/2018/11/c-sharp-asp-net-core-quickly-add-google-recaptcha-verification-to-your-website/)
+
 NuGet：[https://www.nuget.org/packages/LexLibrary.Google.reCAPTCHA/](https://www.nuget.org/packages/LexLibrary.Google.reCAPTCHA/)
 
-Blog：[https://blog.exfast.me](https://blog.exfast.me)
+GitHub：[https://github.com/shuangrain/LexLibrary.Google.reCAPTCHA](https://github.com/shuangrain/LexLibrary.Google.reCAPTCHA)
 
 # Support
 - [ ] Google reCAPTCHA v1
